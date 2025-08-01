@@ -11,4 +11,6 @@ INPUT Data Frames -:
 Expected OUTPUT -: 
 ![image](https://github.com/user-attachments/assets/014b0a00-bec5-40c2-854b-9b3a9aafdddd)
 
-[PySpark Solution : - ](https://github.com/Paritosh135/PySpark-Scenario/blob/main/Scenario-1-Problem.py)
+
+You can check out the solution of problem [here](https://github.com/Paritosh135/PySpark-Scenario/blob/main/Scenario-1-Problem.py).
+
